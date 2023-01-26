@@ -341,7 +341,7 @@ paragua.addEventListener("click",function(){
 camera1.addEventListener("click",function(){
     mapaTrue.classList.remove("hidden")
     mapaFalse.classList.add("hidden")
-    carrusel.innerHTML="<div class=slide><img loading=lazy src=img/miralagoPotrerillos/Miralago6.jpg alt=barrio></div>"
+    carrusel.innerHTML="<div class=slide><img loading=lazy src=img/miralagoPotrerillos/MIRALAGO6.jpg alt=barrio></div>"
     currentIndex=0
     aplicar();
     mapaTrue.classList.remove("hidden")
